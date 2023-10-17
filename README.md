@@ -1,7 +1,5 @@
 ## E ai pessoal ! Aqui quem fala é o Lucian Tavares 🤓.
 
-#### "Quando repassamos o conhecimento que vamos adquirindo ao longo do tempo o aprendizado é muito mais rico e detalhado."
-
 ---
 
 #### Meus contatos:
