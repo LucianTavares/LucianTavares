@@ -1,15 +1,28 @@
-## E ai pessoal ! Aqui quem fala é o Lucian Tavares 🤓.
+# 👋 Hi, I’m Lucian Tavares
+
+I'm a Software Developer focused on backend development, infrastructure automation, and observability.
+
+## 💻 About Me
+
+- 🔧 I work with **TypeScript, Node.js, Go, Docker, Electron.js, Grafana, Loki, PostgreSQL, MySQL, and NGINX**.
+- ⚙️ I love building **scalable systems**, **log monitoring solutions**, and **desktop apps with web integration**.
+- 📈 Passionate about creating **clean, maintainable code** that solves real-world problems.
+- 🎓 I’ve also worked as a **tutor**, helping others learn Docker, Clean Architecture, CI/CD, DDD, and more.
+
+## 🔍 What You’ll Find Here
+
+- 🛠️ Personal tools and utilities I use in real projects
+- 📦 Technical experiments and architecture tests
+- 🧪 Projects related to **observability**, **containers**, and **code architecture**
+- 💡 Learning projects and open-source contributions
+
+## 📫 Let’s Connect
+
+Feel free to explore my repositories, open issues, or connect through:
+- 📧 Email: lucian.sistemas.sc@gmail.com
+- 🌐 LinkedIn: [linkedin.com/in/lucian-tavares](https://www.linkedin.com/in/lucian-tavares)
 
 ---
-
-#### Meus contatos:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucian-silva/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucian.sistemas.sc@gmail.com)
-
----
-
-## Conhecimento:
 
 ### OS:
 
